@@ -3,7 +3,7 @@
 ## Overview of the Analysis
 
 The goal of this analysis was to predict whether a loan is high-risk (1) or healthy (0) using financial data from borrowers.
-
+ 
 The dataset included information such as annual income, debt-to-income ratio, and loan amount. The target variable was loan_status.
 
 To understand the balance of the data, we used value_counts():
